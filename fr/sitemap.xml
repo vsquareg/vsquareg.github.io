@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vsquareg.github.io/fr/categories/</loc>
+    <loc>https://vsquareg.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vsquareg.github.io/categories/"
+                href="https://vsquareg.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vsquareg.github.io/fr/categories/"
+                href="https://vsquareg.com/fr/categories/"
                 />
   </url><url>
-    <loc>https://vsquareg.github.io/fr/series/</loc>
+    <loc>https://vsquareg.com/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vsquareg.github.io/series/"
+                href="https://vsquareg.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vsquareg.github.io/fr/series/"
+                href="https://vsquareg.com/fr/series/"
                 />
   </url><url>
-    <loc>https://vsquareg.github.io/fr/tags/</loc>
+    <loc>https://vsquareg.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vsquareg.github.io/tags/"
+                href="https://vsquareg.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vsquareg.github.io/fr/tags/"
+                href="https://vsquareg.com/fr/tags/"
                 />
   </url><url>
-    <loc>https://vsquareg.github.io/fr/</loc>
+    <loc>https://vsquareg.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://vsquareg.github.io/"
+                href="https://vsquareg.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vsquareg.github.io/fr/"
+                href="https://vsquareg.com/fr/"
                 />
   </url>
 </urlset>
